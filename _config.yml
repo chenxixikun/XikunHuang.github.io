@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Xikun Huang(黄锡昆)"
+title                    : "Xikun Huang"
 title_separator          : "-"
 name                     : &name "Xikun Huang"
 description              : &description "personal description"
