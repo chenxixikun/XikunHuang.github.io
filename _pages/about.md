@@ -14,5 +14,5 @@ Hi, I am Xikun. Currently I am a Ph.D. student at [Academy of Mathematics and Sy
 
 In 2014, I received a B.S. in Mathematics from [Jilin University](http://global.jlu.edu.cn/User/Index/index).
 
-I am a football fan, and I support [Real Madrid C.F.](https://en.wikipedia.org/wiki/Real_Madrid_C.F.).
+I am a football fan.
 
